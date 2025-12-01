@@ -1,0 +1,8 @@
+allpasswords.txt filter=lfs diff=lfs merge=lfs -text
+passwords/all-passwords.txt.xz filter=lfs diff=lfs merge=lfs -text
+allpassswords.txt filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+hasher.py filter=lfs diff=lfs merge=lfs -text
+passwordfetcher.py filter=lfs diff=lfs merge=lfs -text
+passwords filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
